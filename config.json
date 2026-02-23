@@ -1,8 +1,8 @@
 {
   "botToken": "8453854595:AAHLoFUggbppIdfUnB8dZsPsruroUK278o4",
-  "mongoURI": "",
+  "mongoURI": "MOngoDB_URI",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
-  "prefix": "@",
+  "prefix": "/",
   "adminId": [
     "8294554523",
     "",
