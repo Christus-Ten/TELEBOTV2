@@ -1,11 +1,11 @@
 {
-  "botToken": "7576017974:AAFI-hM8zWlv_grtJqXRBOU293YF-px4AFY",
+  "botToken": "8453854595:AAHLoFUggbppIdfUnB8dZsPsruroUK278o4",
   "mongoURI": "mongodb+srv://Christus:voldigo225@cluster0.lzou2z1.mongodb.net/?appName=Cluster0",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
-  "prefix": "/",
+  "prefix": "@",
   "adminId": [
     "8294554523",
-    "",
+    "1087968824",
     ""
   ],
   "owner": "8294554523",
