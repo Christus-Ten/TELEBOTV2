@@ -1,5 +1,5 @@
 {
-  "botToken": "8453854595:AAHLoFUggbppIdfUnB8dZsPsruroUK278o4",
+  "botToken": "8685645915:AAF2t2en9eXi2IMcmk4Q7XprEdwJm5eXvYs",
   "mongoURI": "MOngoDB_URI",
   "note": "Make sure to add your bot token and mongoURI from MongoDB and also respect author for their hardwork for this project by not changing code unnecessarily.",
   "prefix": "/",
